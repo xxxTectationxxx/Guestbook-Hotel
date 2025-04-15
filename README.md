@@ -8,7 +8,7 @@ This project contains intentional security vulnerabilities and is intended **sol
 
 ## 🛠️ Features
 
-#User registration and login system
+# User registration and login system
 1) User Login
 ![Screenshot from 2025-04-15 14-30-55](https://github.com/user-attachments/assets/8cbd125d-5571-4ac2-8797-072f2ea206c2)
 
@@ -18,7 +18,7 @@ This project contains intentional security vulnerabilities and is intended **sol
 3) User Submit Data
 ![Screenshot from 2025-04-15 14-31-15](https://github.com/user-attachments/assets/b0bc5cb8-4c62-4fa3-a64e-5e3dc9815bc0)
 
-#Admin panel for managing user entrie
+# Admin panel for managing user entrie
 1) Admin Login
 ![Screenshot from 2025-04-15 14-30-44](https://github.com/user-attachments/assets/48f2f773-e814-4bf1-aa89-84cfc201e81e)
 
@@ -50,7 +50,6 @@ This project contains intentional security vulnerabilities and is intended **sol
 ├── index.php       # Main entry point
 └── README.md       # Project documentatin
 ```
-
 
 ## 🚀 Getting Started
 
@@ -59,13 +58,12 @@ This project contains intentional security vulnerabilities and is intended **sol
    ```bash
    git clone https://github.com/xxxTectationxxx/Guestbook-Hotel.git
    ```
-
 
 2. **Set up the environment:**
 
-  - Ensure you have PHP and MySQL installd.
-  - Create a MySQL database and import the provided SQL schema (if availabl).
-  - Update database credentials in `config/config.ph`.
+  - Ensure you have PHP and MySQL installd.
+  - Create a MySQL database and import the provided SQL schema (if available).
+  - Update database credentials in `config/config.ph`.
 
 3. **Run the application:**
 
