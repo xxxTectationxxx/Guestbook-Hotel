@@ -12,15 +12,18 @@ This project contains intentional security vulnerabilities and is intended **sol
 1) User Login
 ![Screenshot from 2025-04-15 14-30-55](https://github.com/user-attachments/assets/8cbd125d-5571-4ac2-8797-072f2ea206c2)
 
-3) User Register
+2) User Register
 ![Screenshot from 2025-04-15 14-31-01](https://github.com/user-attachments/assets/887fb322-d60d-4d1b-8444-088b84144bdd)
 
-5) User Submit Data
+3) User Submit Data
 ![Screenshot from 2025-04-15 14-31-15](https://github.com/user-attachments/assets/b0bc5cb8-4c62-4fa3-a64e-5e3dc9815bc0)
 
 #Admin panel for managing user entrie
 1) Admin Login
 ![Screenshot from 2025-04-15 14-30-44](https://github.com/user-attachments/assets/48f2f773-e814-4bf1-aa89-84cfc201e81e)
+
+2) Admin Dashboard
+![Screenshot from 2025-04-15 14-30-39](https://github.com/user-attachments/assets/b28a98b6-86df-43a5-8cb2-295ef30f9a9f)
 
 3) Entri Dashboard
 ![Screenshot from 2025-04-15 14-30-20](https://github.com/user-attachments/assets/d0c81fa6-0af7-40d2-8ca8-b4fbaa5ffb42)
@@ -28,7 +31,7 @@ This project contains intentional security vulnerabilities and is intended **sol
 4) Report Dashboard
 ![Screenshot from 2025-04-15 14-30-09](https://github.com/user-attachments/assets/ab5b2995-2c84-4d3a-8685-25a2c30e02c4)
 
-6) User Managenet
+5) User Managenet
 ![Screenshot from 2025-04-15 14-30-32](https://github.com/user-attachments/assets/a03c6144-2d03-4619-a787-897d7d802e48)
 
 -Designed to include common vulnerabilities such as
