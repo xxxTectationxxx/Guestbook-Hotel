@@ -48,7 +48,7 @@ This project contains intentional security vulnerabilities and is intended **sol
 ├── config/         # Configuration files (e.g., database settings)
 ├── user/           # User-facing pages and functionality
 ├── index.php       # Main entry point
-└── README.md       # Project documentatin
+└── README.md       # Project documentatin
 ```
 
 ## 🚀 Getting Started
@@ -63,21 +63,21 @@ This project contains intentional security vulnerabilities and is intended **sol
 
   - Ensure you have PHP and MySQL installd.
   - Create a MySQL database and import the provided SQL schema (if available).
-  - Update database credentials in `config/config.ph`.
+  - Update database credentials in `config/config.ph`.
 
 3. **Run the application:**
 
-  - Use PHP's built-in servr:
+  - Use PHP's built-in server:
 
      ```bash
      php -S localhost:8000
      ```
 
-  - Access the application at `http://localhost:800`.
+  - Access the application at `http://localhost:800`.
 
 ## 🎯 Educational Objectives
 
 This project is intended to help learners:
 - Identify and exploit common web vulnerabilites.
 - Understand the importance of secure coding practies.
-- Practice using security tools in a controlled environmnt.
+- Practice using security tools in a controlled environmnt.
