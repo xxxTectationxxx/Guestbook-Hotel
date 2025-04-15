@@ -1,0 +1,86 @@
+body {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #eef1f5;
+  padding: 40px;
+  color: #333;
+}
+
+h2 {
+  text-align: center;
+  color: #2c3e50;
+  margin-bottom: 30px;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+  max-width: 400px;
+  margin: 0 auto;
+}
+
+ul li {
+  margin: 15px 0;
+}
+
+ul li a {
+  display: block;
+  text-decoration: none;
+  font-weight: bold;
+  padding: 12px 20px;
+  border-radius: 8px;
+  transition: 0.3s;
+  text-align: center;
+}
+
+/* Gaya tombol berbeda-beda */
+ul li:nth-child(1) a {
+  background-color: #3498db;
+  color: white;
+}
+
+ul li:nth-child(1) a::before {
+  content: "📋 ";
+}
+
+ul li:nth-child(1) a:hover {
+  background-color: #2980b9;
+}
+
+ul li:nth-child(2) a {
+  background-color: #2ecc71;
+  color: white;
+}
+
+ul li:nth-child(2) a::before {
+  content: "📊 ";
+}
+
+ul li:nth-child(2) a:hover {
+  background-color: #27ae60;
+}
+
+ul li:nth-child(3) a {
+  background-color: #f39c12;
+  color: white;
+}
+
+ul li:nth-child(3) a::before {
+  content: "👤 ";
+}
+
+ul li:nth-child(3) a:hover {
+  background-color: #e67e22;
+}
+
+ul li:nth-child(4) a {
+  background-color: #e74c3c;
+  color: white;
+}
+
+ul li:nth-child(4) a::before {
+  content: "🚪 ";
+}
+
+ul li:nth-child(4) a:hover {
+  background-color: #c0392b;
+}
